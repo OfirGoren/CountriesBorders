@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Countries\nBorders</string>
+    <string name="flagCountry">flagCountry</string>
+    <string name="ImageFlag">TODO</string>
+    <string name="borders">Borders</string>
+    <string name="listCountries">List of countries</string>
+</resources>
